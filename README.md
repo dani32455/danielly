@@ -1,2 +1,1 @@
-# danielly
-c
+Git é um sistema de controle de versão distribuído, que permite rastrear e gerenciar alterações em arquivos de código, enquanto o GitHub é uma plataforma online que utiliza o Git para hospedar e colaborar em projetos de software.
